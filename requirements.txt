@@ -2,7 +2,6 @@ Flask==2.2.3
 Werkzeug==2.2.3
 Flask-PyMongo==2.3.0
 Flask-Session==0.4.0
-torch==2.0.0
-torchvision==0.15.1
+
 Pillow==9.4.0
 Gunicorn
